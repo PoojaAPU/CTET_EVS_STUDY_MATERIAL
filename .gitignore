@@ -1,0 +1,244 @@
+\begin{document}
+
+{
+\setbeamertemplate{background}
+{\includegraphics[width=\paperwidth,height=\paperheight]{../images/teacher.png}}
+\begin{frame}
+\vspace{6cm}
+\begin{columns}
+\column{\paperwidth}
+\begin{tcolorbox}[width=\paperwidth,colback=myblue,colframe=myblue,title=\titlepage]
+\end{tcolorbox}
+\end{columns}
+\end{frame}
+}
+
+
+{
+  \setbeamertemplate{background}{
+    \begin{tikzpicture}
+      \node[opacity=1,inner sep=0pt]{
+        \includegraphics [height=\paperheight]{../images/Objective.png}};
+    \end{tikzpicture}
+}
+
+<<<<<<< HEAD:slides/EVS_Concept_Of_EVS_And_NCF_Aims .tex
+\begin{frame}{Objectives} At the end of the video, participants will be able to understand
+=======
+\begin{frame}{Objectives} At the end of the video, participants will be able to understand 
+>>>>>>> bb0b6d2f30935f83ad96b383f0dbae48911c01de:slides/EVS_Concept_Aims_And_Understanding_Textbook.tex
+\begin{enumerate}
+\item EVS.
+\item aims of EVS curriculum.
+\item sources of EVS knowledge.
+\item nature EVS textbook.
+\end{enumerate}
+\end{frame}
+
+}
+
+
+\begin{frame}{EVS:  Environmental Studies}
+
+\begin{enumerate}
+\item Multidisciplinary subject
+\item Inculcates concern for environment in children
+\item Develops right attitudes towards the environment and sustainability.
+\end {enumerate}
+\end{frame}
+
+
+\begin{frame}{Multidisciplinary subject}
+\begin{figure}[h]
+{\includegraphics[width=1\framewidth]{../images/evs_14.jpg}}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Concern for environment}
+\begin{figure}[h]
+{\includegraphics[width=1\framewidth]{../images/evs_2.jpg}}
+\end{figure}
+\end{frame}
+
+\begin{frame}{ Right attitudes towards environment}
+\begin{figure}[h]
+{\includegraphics[width=0.7\framewidth]{../images/meaningfulactivities.jpg}}
+\end{figure}
+\end{frame}
+
+\begin{frame} {Aims of EVS curriculum}
+\begin{enumerate}
+\item Connects in school experiences with the outside world 
+\item Develops observation, measurement and classification skills 
+\item Provides opportunities to explore surroundings 
+\item Advocates learn by doing  
+\item Provides contextual learning
+\end {enumerate}
+\end{frame}
+
+\begin{frame} {EVS classroom}
+\begin{figure}[h]
+{\includegraphics[width=1\framewidth]{../images/provideopportunities.jpg}}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Some sources for learning EVS concepts}
+\begin{enumerate}
+\item  community
+\item parents
+\item teachers
+\item textbook
+\end{enumerate}
+\end{frame}
+
+\begin{frame}{Understanding EVS Textbooks}
+EVS textbooks should
+\begin{enumerate}
+\item  provide opportunities to the child to question and explore.
+\item evoke curiosity.
+\item discourage rote learning. 
+\item avoid descriptions and definitions.
+\end{enumerate}
+\end{frame}
+
+
+{
+\setbeamertemplate{background}{
+\begin{tikzpicture}
+\node[opacity=1,inner sep=0pt]{
+\includegraphics [height=\paperheight]{../images/scroll.png}};
+\end{tikzpicture}
+}
+\begin{frame}{Previous Year Question}
+1. The nature of environment studies does not advocate that
+    
+ a. children get a lot of space to explore.
+
+b.  children make fewer mistakes.
+
+c. children get space to learn by doing.
+    
+d. children ask a lot of questions.
+
+
+\pause
+Answer: b
+\end{frame}
+}
+{
+\setbeamertemplate{background}{
+\begin{tikzpicture}
+\node[opacity=1,inner sep=0pt]{
+\includegraphics [height=\paperheight]{../images/scroll.png}};
+\end{tikzpicture}
+}
+\begin{frame}{Previous Year Question}
+ 2. The chapter in Class V NCERT EVS text-book titled, 'Sunita in Space' describes astronaut Sunita Williams' experiences in spaceship. What could be the reason/reasons for including this?
+ 
+I. This incident gives a peep into the life of an astronaut.
+
+II. This incident describes physical conditions in a spaceship.
+
+III. This incident challenges gender stereotypes.
+
+IV.This incident helps in explaining the concept of gravity.
+   
+a. I only
+
+b. IV only
+
+c. I, II and III
+
+d. I, II, III and IV    
+\pause
+Answer: c
+\end{frame}
+
+{
+\setbeamertemplate{background}{
+\begin{tikzpicture}
+\node[opacity=1,inner sep=0pt]{
+\includegraphics [height=\paperheight]{../images/scroll.png}};
+\end{tikzpicture}
+}
+\begin{frame}{Previous Year Question}
+3. Which one of the following is not an objective of teaching of EVS at primary stage?
+
+a. Learning in the classroom must be linked to the life outside the school
+
+b. Teachers must ensure perfect discipline in the classroom
+
+c. Children must be encouraged to ask questions
+
+d. Children must be encouraged to explore their immediate environment
+
+\pause
+Answer: b
+\end{frame}
+
+{
+\setbeamertemplate{background}{
+\begin{tikzpicture}
+\node[opacity=1,inner sep=0pt]{
+\includegraphics [height=\paperheight]{../images/scroll.png}};
+\end{tikzpicture}
+}
+\begin{frame}{Previous Year Question}
+4. Good EVS curriculum at primary stage should 
+
+a. include more practice questions in end exercises 
+
+b. provide opportunities to explore surroundings 
+
+c. focus more on detailed explanation of concepts 
+
+d. emphasize more on exact definition of term
+
+
+\pause
+Answer: b
+\end{frame}
+
+{
+\setbeamertemplate{background}{
+\begin{tikzpicture}
+\node[opacity=1,inner sep=0pt]{
+\includegraphics [height=\paperheight]{../images/scroll.png}};
+\end{tikzpicture}
+}
+\begin{frame}{Previous Year Question}
+5. The content in an EVS textbook should
+
+I. avoid descriptions and definitions.
+
+II. discourage rote learning.
+
+III. provide opportunities to the child to question and explore.
+
+IV. give only written information to the child.
+
+Select the correct option:
+
+a. I and IV
+
+b.  II and III
+
+c. Only III
+
+d. I, II and III
+
+\pause
+Answer: d
+\end{frame}
+
+}
+
+\begin{frame}{Summary}
+\begin{itemize}
+\item EVS stands for Environmental Studies.
+\item EVS aims to inculcate the concern for environment in  learners. 
+\item Children learn EVS through community, teacher, parents, and textbooks.
+\item EVS textbooks should be designed to evoke curiousity and provide opportunities for the child to explore. 
+\end{itemize}
+\end{frame}
+\end{document}
